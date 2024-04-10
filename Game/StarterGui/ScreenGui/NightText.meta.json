@@ -1,0 +1,37 @@
+{
+    "className": "TextLabel",
+    "properties": {
+
+        "Text": "PLACEHOLDER",
+        "TextSide": 40,
+        
+        "ZIndex": 100,
+
+        "FontFace": {
+            "Font": {
+                "family": "rbxasset://fonts/families/JosefinSans.json",
+                "weight": "Bold",
+                "style": "Regular"
+            }
+        },
+
+        "RichText": false,
+        "TextWrapped": false,
+        
+        "Position": { 
+            "UDim2": [
+                [0.427, 0], 
+                [0.43, 0]
+            ]
+        },
+
+        "Size": { 
+            "UDim2": [
+                [0.145, 0], 
+                [0.45, 0]
+            ]
+        },
+
+         "BackgroundTransparency": 1
+    }
+}
