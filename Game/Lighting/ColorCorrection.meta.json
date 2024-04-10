@@ -1,0 +1,14 @@
+{
+    "className": "ColorCorrection",
+    "properties": {
+      
+        "Brightness": 0,
+
+        "Contrast": 0.1,
+
+        "Saturation": -0.3,
+
+        "TintColor": [255, 253, 190]
+        
+    }
+}
