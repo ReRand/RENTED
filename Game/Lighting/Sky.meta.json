@@ -1,0 +1,23 @@
+{
+    "className": "Sky",
+    "properties": {
+      
+        "CelestialBodiesShown": true,
+        
+        "MoonAngularSize": 11,
+        "SunAngularSize": 11
+
+        "MoonTextureId": "rbxassetid://14249870817",
+        "SunTextureId": "rbxassetid://14249870817",
+
+        "SkyboxBk": "rbxassetid://6444884337",
+        "SkyboxDn": "rbxassetid://6444884785",
+        "SkyboxFt": "rbxassetid://6444884337",
+        "SkyboxLf": "rbxassetid://6444884337",
+        "SkyboxRt": "rbxassetid://6444884337",
+        "SkyboxUp": "rbxassetid://6444884613",
+
+        "StartCount": 3000,
+        
+    }
+}
