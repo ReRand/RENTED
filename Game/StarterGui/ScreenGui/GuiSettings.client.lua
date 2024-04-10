@@ -1,8 +1,11 @@
-game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.PlayerList, false)
-game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.EmotesMenu, false)
-game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, false)
-game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Health, false)
-game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Chat, false)
+local Disabled = {
+  "PlayerList", "EmotesMenu", "Backpack", "Health", "Chat"
+};
+
+
+for _, dis in pairs(Disabled) do
+  game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType[dis], false);
+end
 
 
 local camera = workspace.CurrentCamera
