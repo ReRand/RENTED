@@ -1,2 +1,2 @@
 # RENTED
-Open source repository for the ReRand Roblox game "Rented"
+Open source repository for the ReRand Roblox game "RENTED"
