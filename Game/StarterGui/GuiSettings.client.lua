@@ -4,7 +4,7 @@ local Disabled = {
 
 
 for _, dis in pairs(Disabled) do
-  game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType[dis], false);
+  script.Parent:SetCoreGuiEnabled(Enum.CoreGuiType[dis], false);
 end
 
 
