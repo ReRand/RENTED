@@ -15,6 +15,12 @@
 			"$className": "StarterPlayer",
 			"$path": "Game/StarterPlayer"
 		},
+
+
+		"StarterGui": {
+			"$className": "StarterGui",
+			"$path": "Game/StarterGui"
+		},
 		
 
 		"Lighting": {
