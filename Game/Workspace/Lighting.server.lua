@@ -14,4 +14,4 @@ lighting.Atmosphere.Density = ingame.Density.Value;
 lighting.ColorCorrection.Contrast = ingame.Contrast.Value;
 
 
-screenGui.ngihtText.TextTransparency = 1;
+screenGui.NightText.TextTransparency = 1;
