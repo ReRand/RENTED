@@ -3,10 +3,19 @@
 	
 	"tree": {
 		"$className": "DataModel",
+
 		
 		"Workspace": {
 			"$className": "Workspace",
+			"$path": "Game/Workspace"
 		},
+
+		
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+			"$path": "Game/StarterPlayer"
+		},
+		
 
 		"Lighting": {
 			"$className": "Lighting",
