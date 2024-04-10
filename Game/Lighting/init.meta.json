@@ -1,6 +1,18 @@
 {
     "className": "Lighting",
     "properties": {
-        ""
+        
+        "Ambient": [70, 70, 70],
+        
+        "Brightness": 10,
+        
+        "GlobalShadows": true,
+        
+        "OutdoorAmbient": [70, 70, 70],
+        
+        "Technology": "Voxel",
+        
+        "ClockTime": 13.9,
+    
     }
 }
