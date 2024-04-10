@@ -1,5 +1,5 @@
 local lighting = game:GetService("Lighting");
-local screenGui = game:GetService("StarterGui").ScreenGui;
+local nightGui = game:GetService("StarterGui").NightGui;
 local ingame = lighting.Ingame;
 
 
@@ -14,4 +14,4 @@ lighting.Atmosphere.Density = ingame.Density.Value;
 lighting.ColorCorrection.Contrast = ingame.Contrast.Value;
 
 
-screenGui.NightText.TextTransparency = 1;
+nightGui.NightText.TextTransparency = 1;
