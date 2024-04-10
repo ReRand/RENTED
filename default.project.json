@@ -1,0 +1,15 @@
+{
+	"name": "Rented",
+	
+	"tree": {
+		"$className": "DataModel",
+		
+		"Workspace": {
+			"$className": "Workspace",
+			
+			"Placeholder": {
+				"$path": "Rented",
+            }
+		}
+	}
+}
