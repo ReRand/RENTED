@@ -1,8 +1,9 @@
 local Values = {}
+local Folder = script.Folder.Value;
 
 
 function Values:Fetch(value: string)
-	for i0, v0 in pairs( workspace.ValuesFolder:GetChildren() ) do
+	for i0, v0 in pairs( Folder:GetChildren() ) do
 		if v0:IsA("Folder") then
 			for i1, v1 in pairs( v0:GetChildren() ) do
 				if v1.Name == value then 
@@ -52,7 +53,7 @@ end
 
 
 function Values:FetchRel(relative: string, value: string)
-	return workspace.ValuesFolder[relative][value];
+	return Folder[relative][value];
 end
 
 
