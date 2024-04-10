@@ -1,2 +1,2 @@
-# RbxRented
-Open source repo for the ReRand Roblox game "Rented"
+# Rented
+Open source repository for the ReRand Roblox game "Rented"
