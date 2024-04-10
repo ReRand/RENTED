@@ -1,0 +1,12 @@
+{
+    "className": "Bloom",
+    "properties": {
+      
+        "Intensity": 1,
+
+        "Size": 24,
+
+        "Threshold": 2
+        
+    }
+}
