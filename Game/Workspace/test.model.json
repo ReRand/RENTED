@@ -2,7 +2,8 @@
     "ClassName": "Part",
     "Properties": {
         
-        "Position": [0, 0, 0]
+        "Position": [0, 0, 0],
+        "Anchored": true
     
     }
 }
