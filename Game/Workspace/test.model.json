@@ -4,7 +4,7 @@
         
         "Position": [0, 0, 0],
         "Anchored": true,
-        "CanCollide": false
+        "CanCollide": true
     
     }
 }
