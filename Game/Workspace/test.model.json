@@ -3,7 +3,8 @@
     "Properties": {
         
         "Position": [0, 0, 0],
-        "Anchored": true
+        "Anchored": true,
+        "CanCollide": false
     
     }
 }
