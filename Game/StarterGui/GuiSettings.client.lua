@@ -1,10 +1,10 @@
 local Disabled = {
-  "PlayerList", "EmotesMenu", "Backpack", "Health", "Chat"
+	"PlayerList", "EmotesMenu", "Backpack", "Health", "Chat"
 };
 
 
 for _, dis in pairs(Disabled) do
-  script.Parent:SetCoreGuiEnabled(Enum.CoreGuiType[dis], false);
+	game.StarterGui:SetCoreGuiEnabled(Enum.CoreGuiType[dis], false);
 end
 
 
