@@ -4,7 +4,7 @@ local ingame = lighting.Ingame;
 
 
 lighting.ClockTime = 5;
-lighting.Brightness = ingame.Brihgtness.Value;
+lighting.Brightness = ingame.Brightness.Value;
 lighting.Ambient = ingame.Ambient.Value;
 
 
