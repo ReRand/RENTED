@@ -1,0 +1,65 @@
+{
+    "ClassName": "Part",
+    
+    "Properties": {
+        
+        "Color": [248, 248, 248],
+        "Material": "Asphalt",
+        "Anchored": true,
+        "Reflectance": 1,
+
+        "Size": [0.676, 8.186, 4.752],
+        "Position": [-43.768, 36.093, 3.106],
+        "Rotation": [0, 178, 0]
+        
+    },
+    
+    "Children": [
+
+        { "ClassName": "ClickDetector", "Properties": { "MaxActivationDistance": 10 } },
+        { "Name": "open", "ClassName": "BoolValue" },
+
+        
+        { "ClassName": "Decal", "Properties": { 
+            "Face": "Front", 
+            "Color3": [194, 193, 174],
+            "Texture": "http://www.roblox.com/asset/?id=14027360807"
+        }},
+
+
+        { "ClassName": "Decal", "Properties": { 
+            "Face": "Right", 
+            "Color3": [194, 193, 174],
+            "Texture": "http://www.roblox.com/asset/?id=14027360807"
+        }},
+
+        
+        { "ClassName": "Decal", "Properties": { 
+            "Face": "Back", 
+            "Color3": [194, 193, 174],
+            "Texture": "http://www.roblox.com/asset/?id=14027360807"
+        }},
+
+
+        { "ClassName": "Decal", "Properties": { 
+            "Face": "Top", 
+            "Color3": [194, 193, 174],
+            "Texture": "http://www.roblox.com/asset/?id=14027360807"
+        }},
+
+        
+        { "ClassName": "Decal", "Properties": { 
+            "Face": "Bottom", 
+            "Color3": [194, 193, 174],
+            "Texture": "http://www.roblox.com/asset/?id=14027360807"
+        }},
+
+
+        { "ClassName": "Decal", "Properties": { 
+            "Face": "Left", 
+            "Color3": [194, 193, 174],
+            "Texture": "http://www.roblox.com/asset/?id=16994167624"
+        }},
+        
+    ]
+}
