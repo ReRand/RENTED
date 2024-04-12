@@ -1,9 +1,9 @@
 {
-    "ClassName": "Part",
+    "className": "Part",
     
-    "Properties": {
+    "properties": {
         
-        "Color": [248, 248, 248],
+        "Color": [0.9725490196078431, 0.9725490196078431, 0.9725490196078431],
         "Material": "Asphalt",
         "Anchored": true,
         "Reflectance": 1,
@@ -14,50 +14,50 @@
         
     },
     
-    "Children": [
+    "children": [
 
-        { "ClassName": "ClickDetector", "Properties": { "MaxActivationDistance": 10 } },
-        { "Name": "open", "ClassName": "BoolValue" },
+        { "className": "ClickDetector", "properties": { "MaxActivationDistance": 10 } },
+        { "name": "open", "className": "BoolValue" },
 
         
         { "ClassName": "Decal", "Properties": { 
             "Face": "Front", 
-            "Color3": [194, 193, 174],
+            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
             "Texture": "http://www.roblox.com/asset/?id=14027360807"
         }},
 
 
         { "ClassName": "Decal", "Properties": { 
             "Face": "Right", 
-            "Color3": [194, 193, 174],
+            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
             "Texture": "http://www.roblox.com/asset/?id=14027360807"
         }},
 
         
         { "ClassName": "Decal", "Properties": { 
             "Face": "Back", 
-            "Color3": [194, 193, 174],
+            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
             "Texture": "http://www.roblox.com/asset/?id=14027360807"
         }},
 
 
         { "ClassName": "Decal", "Properties": { 
             "Face": "Top", 
-            "Color3": [194, 193, 174],
+            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
             "Texture": "http://www.roblox.com/asset/?id=14027360807"
         }},
 
         
         { "ClassName": "Decal", "Properties": { 
             "Face": "Bottom", 
-            "Color3": [194, 193, 174],
+            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
             "Texture": "http://www.roblox.com/asset/?id=14027360807"
         }},
 
 
         { "ClassName": "Decal", "Properties": { 
             "Face": "Left", 
-            "Color3": [194, 193, 174],
+            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
             "Texture": "http://www.roblox.com/asset/?id=16994167624"
         }}
         

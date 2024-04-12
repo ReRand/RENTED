@@ -1,9 +1,0 @@
-{
-    "ClassName": "ScreenGui",
-    "Properties": {
-        
-        "IgnoreGuiInset": true,
-        "DisplayOrder": 1
-    
-    }
-}

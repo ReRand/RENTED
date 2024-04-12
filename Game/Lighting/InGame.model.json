@@ -2,7 +2,7 @@
     "ClassName": "Folder",
     "Children": [
 
-        { "Name": "Ambient", "ClassName": "Color3Value", "Value": [70, 70, 70] },
+        { "Name": "Ambient", "ClassName": "Color3Value", "Value": [0.1647058823529412, 0.1647058823529412, 0.0470588235294118] },
         { "Name": "Brightness", "ClassName": "NumberValue", "Value": 3 },
         { "Name": "Contrast", "ClassName": "NumberValue", "Value": 0.1 },
         { "Name": "Density", "ClassName": "NumberValue", "Value": 0.8 }

@@ -4,7 +4,7 @@ local CameraShakeInstance = CameraShaker.CameraShakeInstance;
 
 local RunService = game:GetService("RunService");
 local camera = workspace.CurrentCamera;
-local character = script.Parent;
+local character = script.Parent:IsA("Character") and script.Parent or script.Parent.Parent;
 local humanoid = character:WaitForChild("Humanoid");
 local hrp = character:WaitForChild("HumanoidRootPart");
 

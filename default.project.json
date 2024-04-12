@@ -4,28 +4,79 @@
 	"tree": {
 		"$className": "DataModel",
 
-		
+
 		"Workspace": {
 			"$className": "Workspace",
-			"$path": "Game/Workspace"
-		},
 
-		
-		"StarterPlayer": {
-			"$className": "StarterPlayer",
-			"$path": "Game/StarterPlayer"
+			"$properties": {
+
+			},
+
+			"Modules": { "$path": "Game/Workspace/Modules" },
+			"Map": { "$path": "Game/Workspace/Map" },
+			"Values": { "$path": "Game/Workspace/Values" },
+			"Scripts": { "$path": "Game/Workspace/Scripts" }
 		},
 
 
 		"StarterGui": {
 			"$className": "StarterGui",
-			"$path": "Game/StarterGui"
+
+			"$properties": {
+
+			},
+
+			"GuiSettings": { "$path": "Game/StarterGui/GuiSettings.client.lua" },
+			"NightGui": { "$path": "Game/StarterGui/NightGui" }
 		},
-		
+
+
+		"StarterPlayer": {
+			"$className": "StarterPlayer",
+
+
+			"$properties": {
+				"CameraMode": "LockFirstPerson",
+				"CharacterWalkSpeed": 9,
+				"CharacterJumpHeight": 0,
+				"EnableMouseLockOption": false
+			},
+
+
+			"StarterCharacterScripts": {
+				"$className": "StarterCharacterScripts",
+				"Scripts": { "$path": "Game/StarterPlayer/StarterCharacterScripts" }
+			},
+
+
+			"StarterPlayerScripts": {
+				"$className": "StarterPlayerScripts",
+				"Scripts": { "$path": "Game/StarterPlayer/StarterPlayerScripts" }
+			}
+		},
+
 
 		"Lighting": {
 			"$className": "Lighting",
-			"$path": "Game/Lighting"
+
+
+			"$properties": {
+				"Ambient": [0.2745098039, 0.2745098039, 0.2745098039],
+				"Brightness": 10,
+				"GlobalShadows": true,
+				"OutdoorAmbient": [0.2745098039, 0.2745098039, 0.2745098039],
+				"Technology": "Voxel",
+				"ClockTime": 13.9
+			},
+
+
+			"Atmosphere": { "$path": "Game/Lighting/Atmosphere.model.json" },
+			"Bloom": { "$path": "Game/Lighting/Bloom.model.json" },
+			"Blur": { "$path": "Game/Lighting/Blur.model.json" },
+			"ColorCorrection": { "$path": "Game/Lighting/ColorCorrection.model.json" },
+			"Sky": { "$path": "Game/Lighting/Sky.model.json" },
+
+			"InGame": { "$path": "Game/Lighting/InGame.model.json" }
 		}
 	}
 }

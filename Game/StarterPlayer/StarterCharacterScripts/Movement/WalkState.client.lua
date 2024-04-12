@@ -1,4 +1,4 @@
-local playerModel = script.Parent.Parent
+local playerModel = script.Parent.Parent:IsA("Character") and script.Parent.Parent or script.Parent.Parent.Parent;
 local Humanoid = playerModel:WaitForChild("Humanoid")
 local Values = require(workspace.Modules.Values)
 
