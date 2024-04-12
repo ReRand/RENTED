@@ -1,5 +1,5 @@
 local Values = {}
-local ValuesFolder = script.ValuesFolder.Value;
+local ValuesFolder = workspace.Values;
 
 
 function Values:Fetch(value: string)
