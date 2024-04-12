@@ -1,6 +1,6 @@
 {
-    "className": "Lighting",
-    "properties": {
+    "ClassName": "Lighting",
+    "Properties": {
         
         "Ambient": [70, 70, 70],
         
@@ -12,7 +12,7 @@
         
         "Technology": "Voxel",
         
-        "ClockTime": 13.9,
+        "ClockTime": 13.9
     
     }
 }

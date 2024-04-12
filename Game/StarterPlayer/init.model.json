@@ -1,6 +1,6 @@
 {
-    "className": "StarterPlayer",
-    "properties": {
+    "ClassName": "StarterPlayer",
+    "Properties": {
         
         "CameraMode": "LockFirstPerson",
 

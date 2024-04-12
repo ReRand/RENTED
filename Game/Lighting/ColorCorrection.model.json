@@ -1,6 +1,6 @@
 {
-    "className": "ColorCorrection",
-    "properties": {
+    "ClassName": "ColorCorrection",
+    "Properties": {
       
         "Brightness": 0,
 

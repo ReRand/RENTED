@@ -1,6 +1,6 @@
 {
-    "className": "TextLabel",
-    "properties": {
+    "ClassName": "TextLabel",
+    "Properties": {
 
         "Text": "PLACEHOLDER",
         "TextSize": 40,

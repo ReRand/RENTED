@@ -1,6 +1,6 @@
 {
-    "className": "ScreenGui",
-    "properties": {
+    "ClassName": "ScreenGui",
+    "Properties": {
         
         "IgnoreGuiInset": true,
         "DisplayOrder": 1
