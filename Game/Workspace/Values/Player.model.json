@@ -2,10 +2,13 @@
     "ClassName": "Folder",
     "Children": [
 
-        { "Name": "Crouching", "ClassName": "BoolValue", "Enabled": false },
-        { "Name": "Sprinting", "ClassName": "BoolValue", "Enabled": false },
-        { "Name": "Standing", "ClassName": "BoolValue", "Enabled": true },
-        { "Name": "Walking", "ClassName": "BoolValue", "Enabled": false }
+        { "Name": "Crouching", "ClassName": "BoolValue", "Value": false },
+        { "Name": "Sprinting", "ClassName": "BoolValue", "Value": false },
+        { "Name": "Standing", "ClassName": "BoolValue", "Value": true },
+        { "Name": "Walking", "ClassName": "BoolValue", "Value": false },
+        { "Name": "Flashlight", "ClassName": "BoolValue", "Value": false },
+        { "Name": "HasFlashlight", "ClassName": "BoolValue", "Value": false },
+        { "Name": "Alive", "ClassName": "BoolValue", "Value": true }
         
     ]
 }

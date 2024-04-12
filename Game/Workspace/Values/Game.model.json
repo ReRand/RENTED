@@ -2,7 +2,7 @@
     "ClassName": "Folder",
     "Children": [
 
-        { "Name": "Loaded", "ClassName": "BoolValue", "Enabled": false }
+        { "Name": "Loaded", "ClassName": "BoolValue", "Value": false }
         
     ]
 }
