@@ -1,5 +1,5 @@
 {
-    "ClassName": "ColorCorrection",
+    "ClassName": "ColorCorrectionEffect",
     "Properties": {
       
         "Brightness": 0,
