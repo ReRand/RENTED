@@ -12,55 +12,6 @@
         "Position": [-43.768, 36.093, 3.106],
         "Rotation": [0, 178, 0]
         
-    },
-
-    "children": [
-
-        { "ClassName": "ClickDetector", "Properties": { "MaxActivationDistance": 10 } },
-        { "Name": "open", "ClassName": "BoolValue" },
-
-        
-        { "ClassName": "Decal", "Properties": { 
-            "Face": "Front", 
-            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
-            "Texture": "http://www.roblox.com/asset/?id=14027360807"
-        }},
-
-
-        { "ClassName": "Decal", "Properties": { 
-            "Face": "Right", 
-            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
-            "Texture": "http://www.roblox.com/asset/?id=14027360807"
-        }},
-
-        
-        { "ClassName": "Decal", "Properties": { 
-            "Face": "Back", 
-            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
-            "Texture": "http://www.roblox.com/asset/?id=14027360807"
-        }},
-
-
-        { "ClassName": "Decal", "Properties": { 
-            "Face": "Top", 
-            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
-            "Texture": "http://www.roblox.com/asset/?id=14027360807"
-        }},
-
-        
-        { "ClassName": "Decal", "Properties": { 
-            "Face": "Bottom", 
-            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
-            "Texture": "http://www.roblox.com/asset/?id=14027360807"
-        }},
-
-
-        { "ClassName": "Decal", "Properties": { 
-            "Face": "Left", 
-            "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706],
-            "Texture": "http://www.roblox.com/asset/?id=16994167624"
-        }}
-        
-    ]
+    }
     
 }
