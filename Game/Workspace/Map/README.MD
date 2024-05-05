@@ -1,0 +1,2 @@
+a lot of this is put inside of the project.json file because for some reason rojo removed the init.model.json file so I literally can't properly do children<br>
+see [here](https://github.com/ReRand/RENTED/blob/v2/default.project.json)

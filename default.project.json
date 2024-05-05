@@ -5,20 +5,6 @@
 		"$className": "DataModel",
 
 
-		"Workspace": {
-			"$className": "Workspace",
-
-			"$properties": {
-
-			},
-
-			"Modules": { "$path": "Game/Workspace/Modules" },
-			"Map": { "$path": "Game/Workspace/Map" },
-			"Values": { "$path": "Game/Workspace/Values" },
-			"Scripts": { "$path": "Game/Workspace/Scripts" }
-		},
-
-
 		"StarterGui": {
 			"$className": "StarterGui",
 
@@ -77,6 +63,47 @@
 			"Sky": { "$path": "Game/Lighting/Sky.model.json" },
 
 			"InGame": { "$path": "Game/Lighting/InGame.model.json" }
+		},
+
+
+		"Workspace": {
+			"$className": "Workspace",
+
+			"$properties": {
+
+			},
+
+			"Modules": { "$path": "Game/Workspace/Modules" },
+			"Map": { 
+				"$path": "Game/Workspace/Map",
+				
+				"back": {
+					"$path": "Game/Workspace/Map/back",
+					
+					"SideDoor": {
+						"$path": "Game/Workspace/Map/back/SideDoor",
+
+						"ClickDetector": { "$className": "ClickDetector", "$properties": { "MaxActivationDistance": 10 } },
+        				"open": { "$className": "BoolValue" },
+						"FrontTexture": { "$className": "Decal", "$properties": { "Face": "Front", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
+						"RightTexture": { "$className": "Decal", "$properties": { "Face": "Right", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
+						"BackTexture": { "$className": "Decal", "$properties": { "Face": "Back", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
+						"TopTexture": { "$className": "Decal", "$properties": {  "Face": "Top", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
+						"BottomTexture": { "$className": "Decal", "$properties": { "Face": "Bottom", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
+						"LeftTexture": { "$className": "Decal", "$properties": { "Face": "Left", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=16994167624" }}
+					}
+
+				}
+			},
+
+			"Values": { "$path": "Game/Workspace/Values" },
+			"Scripts": { "$path": "Game/Workspace/Scripts" }
 		}
-	}
+	},
+
+	"globIgnorePaths": [
+		"Game/Workspace/Map/back",
+		"Game/Workspace/Map/back/SideDoor/init.model.json"
+	]
+
 }
