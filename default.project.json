@@ -85,6 +85,7 @@
 
 						"ClickDetector": { "$className": "ClickDetector", "$properties": { "MaxActivationDistance": 10 } },
         				"open": { "$className": "BoolValue" },
+						
 						"FrontTexture": { "$className": "Decal", "$properties": { "Face": "Front", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
 						"RightTexture": { "$className": "Decal", "$properties": { "Face": "Right", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
 						"BackTexture": { "$className": "Decal", "$properties": { "Face": "Back", "Color3": [0.7607843137254902, 0.7568627450980392, 0.6823529411764706], "Texture": "http://www.roblox.com/asset/?id=14027360807" }},
