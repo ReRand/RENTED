@@ -1,1 +1,1 @@
-this folder is for parts of music videos posted to the [ReRand YouTube channel](https://www.youtube.com/@ReRandStudios)
+this folder is for music videos posted to the [ReRand YouTube channel](https://www.youtube.com/@ReRandStudios)
