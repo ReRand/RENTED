@@ -1,0 +1,18 @@
+{
+    "ClassName": "Part",
+    
+    "Properties": {
+        
+        "Color": [1, 0.6901960784, 0],
+        "Material": "SmoothPlastic",
+        "Anchored": true,
+        "Transparency": 1,
+        "Reflectance": 0,
+
+        "Size": [4.486, 23.086, 10.152],
+        "Position": [-26.616, 124.243, -43.04],
+        "Rotation": [0, 90, 0]
+        
+    }
+    
+}

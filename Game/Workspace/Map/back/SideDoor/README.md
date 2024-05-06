@@ -1,1 +1,0 @@
-stuff like textures and other children are in the project.json file

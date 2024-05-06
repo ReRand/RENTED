@@ -1,0 +1,19 @@
+{
+    "className": "Part",
+    
+    "properties": {
+
+        "Name": "streetPart",
+        
+        "Color": [0.6392156863, 0.63529411764, 0.6470588235],
+        "Material": "Asphalt",
+        "Anchored": true,
+        "Reflectance": 0,
+
+        "Size": [131, 1, 43.8],
+        "Position": [-77.95, 116.2, 15.15],
+        "Rotation": [0, -90, 0]
+        
+    }
+    
+}
