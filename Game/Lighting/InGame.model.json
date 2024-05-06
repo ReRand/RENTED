@@ -2,10 +2,10 @@
     "ClassName": "Folder",
     "Children": [
 
-        { "Name": "Ambient", "ClassName": "Color3Value", "Value": [0.1647058823529412, 0.1647058823529412, 0.0470588235294118] },
-        { "Name": "Brightness", "ClassName": "NumberValue", "Value": 3 },
-        { "Name": "Contrast", "ClassName": "NumberValue", "Value": 0.1 },
-        { "Name": "Density", "ClassName": "NumberValue", "Value": 0.8 }
+        { "Name": "Ambient", "ClassName": "Color3Value", "Properties": { "Value": [0.2745098039, 0.2745098039, 0.2745098039] }},
+        { "Name": "Brightness", "ClassName": "NumberValue", "Properties": { "Value": 3 }},
+        { "Name": "Contrast", "ClassName": "NumberValue", "Properties": { "Value": 0.1 }},
+        { "Name": "Density", "ClassName": "NumberValue", "Properties": { "Value": 0.8 }}
         
     ]
 }

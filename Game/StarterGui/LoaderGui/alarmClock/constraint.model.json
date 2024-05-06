@@ -1,0 +1,11 @@
+{
+    "ClassName": "UIAspectRatioConstraint",
+
+    "Properties": {
+
+        "AspectRatio": 0.988,
+        "AspectType": "FitWithinMaxSize",
+        "DominantAxis": "Width"
+
+    }
+}

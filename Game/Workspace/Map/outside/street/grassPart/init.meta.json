@@ -1,0 +1,17 @@
+{
+    "className": "Part",
+    
+    "properties": {
+        
+        "Color": [0.6392156863, 0.63529411764, 0.6470588235],
+        "Material": "Asphalt",
+        "Anchored": true,
+        "Reflectance": 0,
+
+        "Size": [149, 1, 45.8],
+        "Position": [-52.45, 114.2, -150.65],
+        "Rotation": [0, -90, 0]
+        
+    }
+    
+}

@@ -3,11 +3,8 @@
     "properties": {
         
         "CameraMode": "LockFirstPerson",
-
         "CharacterWalkSpeed": 9,
-
         "CharacterJumpHeight": 0,
-
         "EnableMouseLockOption": false
     
     }

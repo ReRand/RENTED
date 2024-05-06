@@ -1,0 +1,11 @@
+{
+    "className": "ScreenGui",
+    "properties": {
+        
+        "ScreenInsets": "CoreUISafeInsets",
+        "IgnoreGuiInset": true,
+        "DisplayOrder": 1,
+        "Enabled": false
+    
+    }
+}

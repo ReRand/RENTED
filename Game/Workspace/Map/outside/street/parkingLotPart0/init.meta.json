@@ -1,0 +1,19 @@
+{
+    "className": "Part",
+    
+    "properties": {
+
+        "Name": "parkingLotPart",
+        
+        "Color": [0.6392156863, 0.63529411764, 0.6470588235],
+        "Material": "Asphalt",
+        "Anchored": true,
+        "Reflectance": 0,
+
+        "Size": [145.3, 1, 64.8],
+        "Position": [46.9, 116.2, -125.95],
+        "Rotation": [0, 180, 0]
+        
+    }
+    
+}

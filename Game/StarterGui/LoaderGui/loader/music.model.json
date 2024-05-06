@@ -1,0 +1,14 @@
+{
+    "ClassName": "Folder",
+
+    "Children": [
+        { "ClassName": "Sound", "Name": "elevator1", "Properties": { "Volume": 0.3, "SoundId": "http://www.roblox.com/asset/?id=1841998974", "Looped": true }},
+        { "ClassName": "Sound", "Name": "elevator2", "Properties": { "Volume": 0.3, "SoundId": "http://www.roblox.com/asset/?id=1842000022", "Looped": false }},
+        { "ClassName": "Sound", "Name": "elevator3", "Properties": { "Volume": 0.3, "SoundId": "http://www.roblox.com/asset/?id=9125627017", "Looped": false }},
+        { "ClassName": "Sound", "Name": "elevator4", "Properties": { "Volume": 0.5, "SoundId": "http://www.roblox.com/asset/?id=1836602149", "Looped": false }},
+        { "ClassName": "Sound", "Name": "elevator5", "Properties": { "Volume": 0.5, "SoundId": "http://www.roblox.com/asset/?id=1836603330", "Looped": false }},
+        { "ClassName": "Sound", "Name": "elevator6", "Properties": { "Volume": 0.5, "SoundId": "http://www.roblox.com/asset/?id=1840884836", "Looped": false }},
+        { "ClassName": "Sound", "Name": "weird", "Properties": { "Volume": 0.5, "SoundId": "http://www.roblox.com/asset/?id=9042449286", "Looped": false }}
+    ]
+    
+}
