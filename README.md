@@ -50,7 +50,7 @@ This game and others developed by ReRand Studios are publicly available for modd
 Some examples of malicious use are:
 - attempting to use the game to scam or swindle people
 - attempting to use the game to break [Roblox TOS](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) and/or [Roblox Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards)
-- attempting to reupload the game without adding anything transformative (basically [fair use](https://www.copyright.gov/help/faq/faq-fairuse.html#:~:text=Under%20the%20fair%20use%20doctrine,news%20reporting%2C%20and%20scholarly%20reports.))
+- attempting to reupload the game without adding anything transformative (basically [fair use](https://www.copyright.gov/help/faq/faq-fairuse.html#:~:text=How%20much%20do,and%20Compilations.))
 - attempting to bypass badges or other in-game purchases (please we need them)
 
 If you wish to use this game maliciously in the attempt to scam or swindle I will make a takedown request and proper action will be taken.<br>
