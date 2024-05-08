@@ -4,14 +4,19 @@ local ingame = lighting.Ingame;
 
 
 lighting.ClockTime = 5;
-lighting.Brightness = ingame.Brightness.Value;
-lighting.Ambient = ingame.Ambient.Value;
 
 
-lighting.Atmosphere.Density = ingame.Density.Value;
-
-
-lighting.ColorCorrection.Contrast = ingame.Contrast.Value;
+for _, s in ipairs(ingame:GetChildren()) do
+    if lighting:GetAttribute(s.Name) then
+        lighting[s.Name] = s.Value;
+    else
+        for _, c in ipairs(lighting:GetChildren()) do
+            if c:GetAttribute(s.Name) then
+                c[s.Name] = s.Value;
+            end
+        end
+    end
+end
 
 
 nightGui.NightText.TextTransparency = 1;
