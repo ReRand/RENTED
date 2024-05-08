@@ -1,0 +1,26 @@
+{
+    "ClassName": "Part",
+    
+    "Properties": {
+        
+        "Color": [0.6392156863, 0.63529411764, 0.6470588235],
+        "Material": "Asphalt",
+        "Anchored": true,
+        "Reflectance": 0,
+
+        "Size": [149, 1, 45.8],
+        "Position": [-52.45, 114.2, -150.65],
+        "Rotation": [0, -90, 0]
+        
+    },
+
+    "Children": [
+        { "Name": "FrontTexture", "ClassName": "Texture", "Properties": { "Face": "Front", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
+		{ "Name": "RightTexture", "ClassName": "Texture", "Properties": { "Face": "Right", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
+		{ "Name": "BackTexture", "ClassName": "Texture", "Properties": { "Face": "Back", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
+		{ "Name": "TopTexture", "ClassName": "Texture", "Properties": {  "Face": "Top", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
+		{ "Name": "BottomTexture", "ClassName": "Texture", "Properties": { "Face": "Bottom", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
+		{ "Name": "LeftTexture", "ClassName": "Texture", "Properties": { "Face": "Left", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }}
+    ]
+    
+}

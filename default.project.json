@@ -84,67 +84,7 @@
 					"$path": "Game/Workspace/Map/outside",
 
 					"street": {
-						"$path": "Game/Workspace/Map/outside/street",
-
-						"streetPart0": {
-							"$path": "Game/Workspace/Map/outside/street/streetPart0",
-							"FrontTexture": { "$className": "Texture", "$properties": { "Face": "Front", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"RightTexture": { "$className": "Texture", "$properties": { "Face": "Right", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"BackTexture": { "$className": "Texture", "$properties": { "Face": "Back", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"TopTexture": { "$className": "Texture", "$properties": {  "Face": "Top", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"BottomTexture": { "$className": "Texture", "$properties": { "Face": "Bottom", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"LeftTexture": { "$className": "Texture", "$properties": { "Face": "Left", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }}
-						},
-
-						"streetPart1": {
-							"$path": "Game/Workspace/Map/outside/street/streetPart1",
-							"FrontTexture": { "$className": "Texture", "$properties": { "Face": "Front", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"RightTexture": { "$className": "Texture", "$properties": { "Face": "Right", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"BackTexture": { "$className": "Texture", "$properties": { "Face": "Back", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"TopTexture": { "$className": "Texture", "$properties": {  "Face": "Top", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"BottomTexture": { "$className": "Texture", "$properties": { "Face": "Bottom", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"LeftTexture": { "$className": "Texture", "$properties": { "Face": "Left", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }}
-						},
-
-						"streetPart2": {
-							"$path": "Game/Workspace/Map/outside/street/streetPart2",
-							"FrontTexture": { "$className": "Texture", "$properties": { "Face": "Front", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"RightTexture": { "$className": "Texture", "$properties": { "Face": "Right", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"BackTexture": { "$className": "Texture", "$properties": { "Face": "Back", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"TopTexture": { "$className": "Texture", "$properties": {  "Face": "Top", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"BottomTexture": { "$className": "Texture", "$properties": { "Face": "Bottom", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }},
-							"LeftTexture": { "$className": "Texture", "$properties": { "Face": "Left", "Color3": [0.7607843137, 0.7411764706, 0.6745098039], "Texture": "http://www.roblox.com/asset/?id=16993614624", "StudsPerTileU": 100, "StudsPerTileV": 40 }}
-						},
-
-						"grassPart": {
-							"$path": "Game/Workspace/Map/outside/street/grassPart",
-							"FrontTexture": { "$className": "Texture", "$properties": { "Face": "Front", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
-							"RightTexture": { "$className": "Texture", "$properties": { "Face": "Right", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
-							"BackTexture": { "$className": "Texture", "$properties": { "Face": "Back", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
-							"TopTexture": { "$className": "Texture", "$properties": {  "Face": "Top", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
-							"BottomTexture": { "$className": "Texture", "$properties": { "Face": "Bottom", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }},
-							"LeftTexture": { "$className": "Texture", "$properties": { "Face": "Left", "Color3": [0.07843137255, 1, 0.01176470588], "Texture": "http://www.roblox.com/asset/?id=15996982730", "StudsPerTileU": 10, "StudsPerTileV": 10 }}
-						},
-
-						"parkingLotPart0": {
-							"$path": "Game/Workspace/Map/outside/street/parkingLotPart0",
-							"FrontTexture": { "$className": "Texture", "$properties": { "Face": "Front", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"RightTexture": { "$className": "Texture", "$properties": { "Face": "Right", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"BackTexture": { "$className": "Texture", "$properties": { "Face": "Back", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"TopTexture": { "$className": "Texture", "$properties": {  "Face": "Top", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"BottomTexture": { "$className": "Texture", "$properties": { "Face": "Bottom", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"LeftTexture": { "$className": "Texture", "$properties": { "Face": "Left", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }}
-						},
-
-						"parkingLotPart1": {
-							"$path": "Game/Workspace/Map/outside/street/parkingLotPart1",
-							"FrontTexture": { "$className": "Texture", "$properties": { "Face": "Front", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"RightTexture": { "$className": "Texture", "$properties": { "Face": "Right", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"BackTexture": { "$className": "Texture", "$properties": { "Face": "Back", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"TopTexture": { "$className": "Texture", "$properties": {  "Face": "Top", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"BottomTexture": { "$className": "Texture", "$properties": { "Face": "Bottom", "Color3": [0.631372549, 0.61568627451, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }},
-							"LeftTexture": { "$className": "Texture", "$properties": { "Face": "Left", "Color3": [0.631372549, 0.6156862745, 0.5607843137], "Texture": "http://www.roblox.com/asset/?id=16993839873", "StudsPerTileU": 175, "StudsPerTileV": 75 }}
-						}
+						"$path": "Game/Workspace/Map/outside/street"
 					}
 				}
 			},
@@ -160,13 +100,7 @@
 		"Game/Workspace/Map/back/SideDoor/door",
 
 		"Game/Workspace/Map/outside",
-		"Game/Workspace/Map/outside/street",
-		"Game/Workspace/Map/outside/street/streetPart0",
-		"Game/Workspace/Map/outside/street/streetPart1",
-		"Game/Workspace/Map/outside/street/streetPart2",
-		"Game/Workspace/Map/outside/street/grassPart",
-		"Game/Workspace/Map/outside/street/parkingLotPart0",
-		"Game/Workspace/Map/outside/street/parkingLotPart1"
+		"Game/Workspace/Map/outside/street"
 	]
 
 }
