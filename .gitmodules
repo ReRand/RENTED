@@ -1,3 +1,5 @@
-[submodule "DbConnector"]
-	path = DbConnector
-	url = https://github.com/chaconinc/DbConnector
+# no worky :(((((
+
+[submodule "Revared"]
+	path = Game/Workspace/Modules/Revared
+	url = https://github.com/ReRand/Revared/Revared
