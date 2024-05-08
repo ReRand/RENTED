@@ -2,7 +2,7 @@
   
 # RENTED 🍔 Open Source
 
-A first person sit-and-survive horror game where the player must fend off cultists and spirits in a rundown burger restaurant<br>
+A first person 3D sit-and-survive horror game where the player must fend off cultists and spirits in a rundown burger restaurant<br>
 
 Open source repository for the ReRand Roblox game "RENTED"
 
