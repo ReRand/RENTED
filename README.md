@@ -1,3 +1,5 @@
+---
+
 <table><tr><td>
   
 # RENTED 🍔 Open Source
@@ -15,8 +17,9 @@ Open source repository for the ReRand Roblox game "RENTED"
 
 </td></tr></table>
 
-
 <br>
+
+---
 
 ## obligatory tutorial
 if you want to use this and don't know how rojo works I'll give a brief tutorial here
