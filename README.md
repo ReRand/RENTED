@@ -22,7 +22,7 @@ Open source repository for the ReRand Roblox game "RENTED"
 ---
 
 ## obligatory tutorial
-if you want to use this and don't know how rojo works I'll give a brief tutorial here
+if you want to use this for modding or other purposes and don't know how rojo works I'll give a brief tutorial here
 1. download [Visual Studio Code](https://code.visualstudio.com/)
 2. install the [Rojo plugin](https://marketplace.visualstudio.com/items?itemName=evaera.vscode-rojo)
 3. press Ctrl+Shift+P to open the command palette
@@ -38,3 +38,28 @@ if you want to use this and don't know how rojo works I'll give a brief tutorial
 for more info go to the [Rojo docs](https://rojo.space/docs/)
 
 ---
+
+<br>
+
+<table><tr><td>
+
+
+## <i><u>Disclaimer<u><b> ⚠️
+This game and others developed by ReRand Studios are publicly available for modding and educational purposes and we will take no action if your game does not attempt to use our content maliciously.<br>
+
+Some examples of malicious use are:
+- attempting to use the game to scam or swindle people
+- attempting to use the game to break [Roblox TOS](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) and/or [Roblox Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards)
+- attempting to bypass badges or other in-game purchases (please we need them)
+
+If you wish to use this game maliciously in the attempt to scam or swindle I will make a takedown request and proper action will be taken.<br>
+
+See our [license](https://github.com/ReRand/RENTED/blob/v2/LICENSE) for more legal mumbo jumbo.<br>
+
+### Remember to respect [Roblox TOS](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use) and [Roblox Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards) while creating.</b></i>
+
+</td></tr></table>
+
+<br>
+
+Copyright (c) 2024 ReRand Studios
