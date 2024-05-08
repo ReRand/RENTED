@@ -1,3 +1,6 @@
-[submodule "test"]
-	path = test
-	url = https://github.com/ReRand/Revared
+[submodule "assets"]
+	path = assets
+	url = https://github.com/FunkinCrew/funkin.assets
+[submodule "art"]
+	path = art
+	url = https://github.com/FunkinCrew/funkin.art
