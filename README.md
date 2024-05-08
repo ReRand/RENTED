@@ -8,11 +8,13 @@ Open source repository for the ReRand Roblox game "RENTED"
 
 <a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=150 src="https://tr.rbxcdn.com/049a08fff43d029c81bdaff3c228d61a/768/432/Image/Png" alt="Banner"><a href="https://www.roblox.com/games/15492975108/RENTED?AssetId=15492975108"><img height=150 src="https://tr.rbxcdn.com/23753ccabc7d15eb38dfe8e06fceae2a/150/150/Image/Png" alt="Icon">
 
-</td></tr></table>
+<br>
+
+### **THIS IS UNFINISHED AND SO IS THE GAME
 
 <br>
 
-# **THIS IS UNFINISHED AND SO IS THE GAME
+</td></tr></table>
 
 
 <br>
